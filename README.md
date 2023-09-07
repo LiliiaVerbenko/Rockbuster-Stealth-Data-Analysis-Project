@@ -10,7 +10,7 @@ The data set includes Fact and Dimension Tables:
 **Fact Tables**
 - Payment
 - Rental
-
+- 
 **Dimension Tables**
 - Actor
 - Address

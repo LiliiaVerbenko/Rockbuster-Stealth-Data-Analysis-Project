@@ -20,60 +20,50 @@ Here we are launching a data-driven analysis is to help the Rockbuster Stealthâ€
 
 ## Deliverables
 
-- **Dataset: CDC Influenza Deaths**  
-  - Link: [CDC Influenza Deaths](https://coach-coursesus.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edit)
+1. [Final Report](https://drive.google.com/file/d/1DG8KMZ996s5t4g3v2WnxE0npe0eLwrZb/view?usp=share_link)
+2. [Excel & SQL Summary](https://docs.google.com/spreadsheets/d/1BMyeGEwB8ocnKqBnC19ZC0QYJ8UOqo6K/edit?usp=share_link&ouid=100220627403487571764&rtpof=true&sd=true)
+3. [GitHub](https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project)
+4. [Data Dictionary](https://drive.google.com/file/d/1HLxT_oMLJ39huBOit4eze3ipl-9SBp_I/view?usp=share_link)
+5. [Project Brief](https://drive.google.com/file/d/1eOQ5hjX5iTsLVn4p_hVDQOX7PmH00ElG/view?usp=share_link)
 
-- **Influenza Preparation Final Report**
-  - Link: [Final Report](https://drive.google.com/file/d/1IamjG-4XgkKnWt4g9Pt2TvMwOmGznwvH/view?usp=share_link)
-
-- **Tableau Project**
-  - Link: [Tableau Project](https://public.tableau.com/app/profile/liliia.verbenko/viz/ProjectPreparingforInfluenzaSeasoninUSA/ProjectPreparingforInfluenzaSeasoninUSA?publish=yes)
-
-- **Video Presentation**
-  - Link: [Video Presentation](https://screenpal.com/watch/c0it0kVkZOy)
-
-- **Project Brief**
-  - Link: [Project Brief](https://drive.google.com/file/d/1uwZUbzygOUEJpoJmO1JTU_JYU4znL6JJ/view?usp=share_link)
 
 ## Problem
 
-Identifying the states with the highest number of vulnerable populations and determining the quantities for deploying medical personnel to each state to prepare hospitals for the upcoming flu season.
+Streaming platforms pose strong competition for Rockbuster Stealth. In order to stay competitive, Rockbuster Stealth has decided to launch an online video rental platform. However, they need precise details on the target customer base, preferred movies, and target markets for effective implementation.
 
 ## Objective
 
-Perform statistical analysis on influenza patterns to anticipate and prepare for staffing allocation across the country.
-
-## Hypothesis
-
-If a state has a higher proportion of persons aged 65 and up, then such a state will have a higher influenza-related death rate.
+Perform an analysis to help with the launch strategy for the new online video service and to answer managementâ€™s business questions. 
 
 ## Key Insights
 
-I used statistical analysis to explore the relationships between variables and identified a weak positive correlation between the number of deaths and the population older than 65. This suggests that a slight increase in the proportion of individuals aged 65 and above is associated with a mild rise in the death ratio.
+- Joins, subqueries and common table expressions were used to find the answers to the key questions.
+- Rockbuster's database contains 599 customers across 108 countries, 1000 films in 6 languages, 20 genres and 200 actors.  
 
-<img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%201.png" width="300">
+**_What is the average movie rental duration?_**
 
+<img src="https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project/blob/main/image/Rockbuster%203.png" width="300">
 
-**_Which age groups are most affected by influenza?_**
+Average movie rental duration is 5 days.
 
-I created this bar chart to identify demographic groups most at risk, and it was discovered that vulnerable population refers to groups of individuals under 5 years old and over 65 years old.
-
-<img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%202.png" width="300">
-
-**_Which states have the highest number of vulnerable populations?_**
-
-I have discovered that the states in the East have a higher death rate, and the density of the population significantly influences the death count.
-
-<img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%203.png" width="300">
-
-**_What does the future bring?_**
+**_Which movies contributed the most to revenue gain?_**
 
 <img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%204.png" width="300">
 
-## Results
+"Telegraph Voyage" is the most profitable movie. 
 
-With 95% confidence, we can draw the conclusion that:
-- The highest growth in the number of deaths is projected for the Midwest region at 5.7%.
-- The growth in the number of deaths is also expected in the South and Northeast regions.
-- In the year 2018, influenza-related deaths in the West region are forecasted to remain constant.
+<img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%201.jpg" width="300">
+
+**_Do sales vary between geographic regions?_**
+
+<img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%205.png" width="300">
+
+The customer distribution among countries indicates that India, China, and the United States have the largest customer base. 
+
+<img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%202.jpg" width="300">
+
+## Results
+- Promote high-performing movies prominently for increased customer attraction through targeted promotions and recommendations.
+- Concentrate marketing efforts on top-performing regions like India, China, and the United States, aiming to retain and expand the customer base in these key markets.
+
 

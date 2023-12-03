@@ -7,6 +7,7 @@ Here we are launching a data-driven analysis is to help the Rockbuster Stealthâ€
 
 ## Data set
 The data set includes Fact and Dimension Tables:
+
 **Fact Tables**
 - Payment
 - Rental

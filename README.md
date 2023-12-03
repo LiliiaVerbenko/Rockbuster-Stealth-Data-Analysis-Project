@@ -40,13 +40,13 @@ Perform an analysis to help with the launch strategy for the new online video se
 
 **_What is the average movie rental duration?_**
 
-<img src="https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project/blob/main/image/Rockbuster%203.png" width="300">
+<img src="https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project/blob/main/image/Rockbuster%203.png" width="400">
 
 Average movie rental duration is 5 days.
 
 **_Which movies contributed the most to revenue gain?_**
 
-<img src="https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project/blob/main/image/Rockbuster%204.png" width="300">
+<img src="https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project/blob/main/image/Rockbuster%204.png" width="400">
 
 "Telegraph Voyage" is the most profitable movie. 
 
@@ -54,11 +54,11 @@ Average movie rental duration is 5 days.
 
 **_Do sales vary between geographic regions?_**
 
-<img src="https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project/blob/main/image/Rockbuster%205.png" width="300">
+<img src="https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project/blob/main/image/Rockbuster%205.png" width="400">
 
 The customer distribution among countries indicates that India, China, and the United States have the largest customer base. 
 
-<img src="https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project/blob/main/image/Rockbuster%202.jpg" width="400">
+<img src="https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project/blob/main/image/Rockbuster%202.jpg" width="500">
 
 ## Results
 - Promote high-performing movies prominently for increased customer attraction through targeted promotions and recommendations.

@@ -22,8 +22,6 @@ Here we are launching a data-driven analysis is to help the Rockbuster Stealthâ€
 2. [Excel & SQL Summary](https://docs.google.com/spreadsheets/d/1BMyeGEwB8ocnKqBnC19ZC0QYJ8UOqo6K/edit?usp=share_link&ouid=100220627403487571764&rtpof=true&sd=true)
 3. [GitHub](https://github.com/LiliiaVerbenko/Rockbuster-Stealth-Data-Analysis-Project)
 4. [Data Dictionary](https://drive.google.com/file/d/1HLxT_oMLJ39huBOit4eze3ipl-9SBp_I/view?usp=share_link)
-5. [Project Brief](https://drive.google.com/file/d/1eOQ5hjX5iTsLVn4p_hVDQOX7PmH00ElG/view?usp=share_link)
-
 
 ## Problem
 
